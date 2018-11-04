@@ -52,9 +52,14 @@ In the max version i added an internal sequencer made of three rows:
     
 You can then independently randomize the position of the playhead on all three sequencers, you can randomize the phase modulation oscillator frequency to main oscillator frequency ratio and the amount of distortion.    
 
+You can now horizontally zoom in and out on all 4 envelopes for precise and intricate modulations on the micro-scale.
+
 Two versions are available: 8 steps and 16 steps. The GUI's are different too.
 
 I'm working on a proper max for live device.
+
+The presets folder is an ongoing repo for the max/msp version presets. load them up with the "read" button. write your own collectin (and contribute here) with the "write" button after having stored your 6 presets.
+
 
 some demos:
 
