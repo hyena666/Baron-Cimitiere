@@ -36,9 +36,11 @@ controls are:
 
 # Max\Msp version
 
-I then ported the custom unit in Max 8. I'm learning Max in the very moment of patching this app so you'll see some probably unelegant and unefficient solutions but i managed to have two working patches and one work in progress on which i am adding monome grid support.
+I then ported the custom unit in Max 8. I'm learning Max in the very moment of patching this app so you'll see some probably unelegant and unefficient solutions but i managed to do it!
 
-![ScreenShot](https://forum.orthogonaldevices.com/uploads/default/original/2X/3/30292e96141008ab30f5b9198990286769c65a7f.png)
+Actual 0.5.0 version sports internal sequencer and monome grid 128 varibright support for hands on experience!
+
+![ScreenShot](https://forum.orthogonaldevices.com/uploads/default/original/2X/a/a2d64d8b5992d661c97335218ae0d4e897779149.png)
 
 In the max version i added an internal sequencer made of three rows:
 
@@ -52,7 +54,13 @@ You can then independently randomize the position of the playhead on all three s
 
 Two versions are available: 8 steps and 16 steps. The GUI's are different too.
 
-I'm working on the monome grid ready version and on a proper max for live device.
+I'm working on a proper max for live device.
+
+some demos:
+
+https://soundcloud.com/hyena/hyena-baron-cimitiere-tablas-er-301-version
+https://soundcloud.com/hyena/hyena-baron-cimitiere-02-maxmsp-version-test
+https://soundcloud.com/hyena/hyena-baron-cimitiere-test
 
 
 
