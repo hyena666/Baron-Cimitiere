@@ -59,8 +59,11 @@ I'm working on a proper max for live device.
 some demos:
 
 https://soundcloud.com/hyena/hyena-baron-cimitiere-tablas-er-301-version
+
 https://soundcloud.com/hyena/hyena-baron-cimitiere-02-maxmsp-version-test
+
 https://soundcloud.com/hyena/hyena-baron-cimitiere-test
+
 
 
 
