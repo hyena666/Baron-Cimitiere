@@ -34,7 +34,7 @@ controls are:
     
 
 
-# Max\Msp version
+# Max/Msp version
 
 I then ported the custom unit in Max 8. I'm learning Max in the very moment of patching this app so you'll see some probably unelegant and unefficient solutions but i managed to do it!
 
