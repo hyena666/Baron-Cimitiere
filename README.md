@@ -9,7 +9,7 @@ Baron Cimitière is a sine-based digital percussion unit.
 
 send it some gates, cvs, stepped or fluctuating randoms and hear it spit out sharp beats.
 
-![ScreenShot](https://forum.orthogonaldevices.com/uploads/default/original/2X/f/f5670986dd705f2b8c04a69cbf54212e01a23134.png)
+![ScreenShot](https://forum.orthogonaldevices.com/uploads/default/original/2X/5/55f72c2036bae2a67e3b0815273e8bff3219eaac.png)
 
 controls are:
 
